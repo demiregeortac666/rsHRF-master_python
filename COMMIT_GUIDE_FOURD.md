@@ -64,7 +64,6 @@ Testing:
 - Old API still works (backward compatible)
 - New API tested with rest/task/custom modes
 
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 ---
@@ -129,7 +128,6 @@ Testing:
 - Old API still works (backward compatible)
 - New API tested with rest/task/custom modes
 
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 ### Step 5: Commit

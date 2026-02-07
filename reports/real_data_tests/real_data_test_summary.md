@@ -300,7 +300,7 @@ Estimation and Deconvolution. NeuroImage, 244, 118591.
 
 ---
 
-**Test conducted by**: Claude Sonnet 4.5
+**Test conducted by**: Demir Ortac
 **Environment**: conda env rshrf (/opt/anaconda3/envs/rshrf)
 **Python version**: 3.x
 **Key libraries**: numpy, scipy, pywavelets, nibabel

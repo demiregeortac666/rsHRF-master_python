@@ -65,7 +65,6 @@ References:
 - Addresses sinusoidal artifacts and edge effects
 - NeuroImage 2021: Wu et al., rsHRF Toolbox
 
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 ---
@@ -138,7 +137,6 @@ References:
 - Addresses sinusoidal artifacts and edge effects
 - NeuroImage 2021: Wu et al., rsHRF Toolbox
 
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 ### Step 5: Commit to Feature Branch

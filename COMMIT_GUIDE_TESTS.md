@@ -72,7 +72,6 @@ Coverage:
 - Edge cases covered
 - Backward compatibility verified
 
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 ---
@@ -187,7 +186,6 @@ Coverage:
 - Edge cases covered
 - Backward compatibility verified
 
-Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ```
 
 ### Step 5: Commit
